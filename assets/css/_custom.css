@@ -1,0 +1,66 @@
+/* Site custom styles and colours. This file loads last. */
+
+
+
+
+:root {
+  /* Brand colours. */
+  --color-brand:                  var(--color-grey-100);
+  --color-brand-alt:              var(--color-grey-500);
+  --color-brand-light:            var(--color-grey-300);
+  --color-brand-dark:             var(--color-grey-700);
+
+  /* Text colours. */
+  --color-text:                   var(--color-grey-100); 
+  --color-text-bg:                var(--color-grey-400); 
+  --color-text-meta:              var(--color-grey-600); 
+  --color-headings:               var(--color-grey-100); 
+  --color-code:                   var(--color-grey-100);
+
+  /* Background colours. */
+  --color-header-bg:              var(--color-nearblack); 
+  --color-body-bg:                var(--color-nearblack); 
+  --color-footer-bg:              var(--color-nearblack);
+  --color-backdrop:               var(--color-grey-700); 
+
+ /* Button colours. */
+ --color-button:                 var(--color-header-bg);
+ --color-button-hover:           var(--color-brand-alt);
+ --color-button-text:            var(--color-white);
+ --color-button-text-hover:      var(--color-white);
+ --color-button-disabled:        var(--color-grey-400);
+
+ /* Form colours. */
+ --color-accent:                 var(--color-brand-dark);
+
+}
+
+
+
+
+/*
+ Override colours like this 
+:root {
+
+  --color-MAIN-PR:                #121212;
+  --color-pr-1:                      #252525;
+  --color-header-bg:              var(--color-pr-1);
+  --color-body-bg:                var(--color-MAIN-PR);
+  --color-footer-bg:              var(--color-black);
+  --color-backdrop:               var(--color-grey-700);
+}
+
+
+
+
+/*
+
+  --color-nearblack:              oklch(25% 0.01 0);
+  --color-grey-700:               oklch(38% 0 0);
+  --color-grey-600:               oklch(49% 0 0);
+  --color-grey-500:               oklch(60% 0 0);
+  --color-grey-400:               oklch(71% 0 0);
+  --color-grey-300:  
+
+  */
+

@@ -1,0 +1,56 @@
+---
+title: "PBL3 Group A"
+baseURL: "https://example.org/"
+theme: "zen"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+
+outputFormats:
+  SearchIndex:
+    mediaType: "application/json"
+    baseName: "searchindex"
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home: ["HTML","RSS", "JSON", "SearchIndex"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "pbl3GA@ed.ritsumei.ac.jp"
+  description: "Site for documenting activites done in pbl3"
+  dateformat: "20 April, 2026"
+  favicon: "apple-touch-icon.png"
+  feedlinks: true
+  footer: "Made by Ken Sunamoto - 2600250451-0"
+  icon: "apple-touch-icon.png"
+  image: "apple-touch-icon.png"
+  imageMaxWidth: 400
+  logoWidth: 64
+  mobileMenu: true
+  poweredby: true
+  sidebar: true
+  submitted: true
+  themeColor: #121212
+  author:
+    name: "Ken Sunamoto"
+    url: "https://example.org/somepage"
+    avatar: "path/to/some-image.jpg"
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: Documentation
+      pageRef: /documentation
+      weight: 2
+      #unneeded
+    - #name: Contact
+      #pageRef: /contact
+      #weight: 40
+    - #name: Search
+      #pageRef: /search
+      #weight: 50

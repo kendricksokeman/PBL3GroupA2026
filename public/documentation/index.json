@@ -1,0 +1,60 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Documentation on PBL3 Group A",
+    "description": "Recent content in Documentation on PBL3 Group A",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/documentation/index.json",
+    "language": "en-GB",
+    "icon": "http://localhost:1313/apple-touch-icon.png",
+    "favicon": "http://localhost:1313/apple-touch-icon.png",
+    "authors": [
+        {
+            "name": "Ken Sunamoto",
+            "url": "https://example.org/somepage",
+            "avatar": "http://localhost:1313/path/to/some-image.jpg"
+        }
+    ],
+    "items": [
+        {
+            "title": "Weekly Notes",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/_weekly-notes/",
+            "url": "http://localhost:1313/documentation/_weekly-notes/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Project Proposal",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/project-proposal/",
+            "url": "http://localhost:1313/documentation/project-proposal/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "Requirements Specification Document",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/requirements-specification-document/",
+            "url": "http://localhost:1313/documentation/requirements-specification-document/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "System Design Diagrams",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/system-design-diagrams/",
+            "url": "http://localhost:1313/documentation/system-design-diagrams/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        },
+        {
+            "title": "System Architecture",
+            "date_published": "0001-01-01T00:00:00Z",
+            "date_modified": "0001-01-01T00:00:00Z",
+            "id": "http://localhost:1313/documentation/system-architecture/",
+            "url": "http://localhost:1313/documentation/system-architecture/",
+            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+        }
+        ]
+}
