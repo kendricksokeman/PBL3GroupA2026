@@ -54,3 +54,7 @@ menus:
     - #name: Search
       #pageRef: /search
       #weight: 50
+
+caches:
+  images:
+    dir: :cacheDir/images
