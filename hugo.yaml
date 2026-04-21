@@ -2,7 +2,7 @@
 title: "PBL3 Group A"
 baseURL: "https://example.org/"
 theme: "zen"
-languageCode: "en-GB"
+languageCode: "en"
 defaultContentLanguage: "en"
 pluralizelisttitles: false
 removePathAccents: true
@@ -22,11 +22,11 @@ params:
   contact: "pbl3GA@ed.ritsumei.ac.jp"
   description: "Site for documenting activites done in pbl3"
   dateformat: "20 April, 2026"
-  favicon: "apple-touch-icon.png"
+  #favicon: "apple-touch-icon.png"
   feedlinks: true
   footer: "Made by Ken Sunamoto - 2600250451-0"
-  icon: "apple-touch-icon.png"
-  image: "apple-touch-icon.png"
+  #icon: "apple-touch-icon.png"
+  #image: "apple-touch-icon.png"
   imageMaxWidth: 400
   logoWidth: 64
   mobileMenu: true
