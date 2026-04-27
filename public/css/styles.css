@@ -1,6 +1,6 @@
 @layer reset, fonts, vars, base, layouts, components, mobilemenu, print, zen;
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/_colors.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\_colors.css */
 @layer vars {
   :root {
     --color-black: oklch(1% 0.01 0);
@@ -72,7 +72,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/_variables.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\_variables.css */
 @layer vars {
   :root {
     --max-content-width: 1111px;
@@ -234,10 +234,10 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/_fonts.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\_fonts.css */
 @layer fonts;
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/reset/_reset.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\reset\_reset.css */
 @layer reset {
   *,
   *::before,
@@ -307,7 +307,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/layouts/_layouts.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\layouts\_layouts.css */
 @layer layouts {
   .layout__page {
     max-width: var(--max-page-width);
@@ -403,7 +403,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_document.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_document.css */
 @layer base {
   html {
     font-family: var(--ff-body);
@@ -416,7 +416,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_forms.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_forms.css */
 @layer base {
   form {
     margin-block: 0 var(--spacing-m);
@@ -484,7 +484,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_grouping.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_grouping.css */
 @layer base {
   blockquote {
     margin-block: 0 var(--spacing-m);
@@ -547,7 +547,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_headings.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_headings.css */
 @layer base {
   h1,
   h2,
@@ -593,7 +593,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_images.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_images.css */
 @layer base {
   figure,
   img {
@@ -664,7 +664,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_links.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_links.css */
 @layer base {
   a {
     color: var(--color-link);
@@ -716,7 +716,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/base/_tables.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\base\_tables.css */
 @layer base {
   table {
     margin-block: 0 var(--spacing-m);
@@ -737,7 +737,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_anchor.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_anchor.css */
 @layer components {
   .anchor {
     --anchor-gap: .5rem;
@@ -768,7 +768,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_box.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_box.css */
 @layer components {
   .box {
     margin-block: var(--spacing-m);
@@ -820,7 +820,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_button.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_button.css */
 @layer components {
   .button,
   [type=button],
@@ -906,7 +906,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_cards.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_cards.css */
 @layer components {
   .cards {
     --grid-group-column-min: 200px;
@@ -959,7 +959,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_center.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_center.css */
 @layer components {
   .grid-center {
     display: grid;
@@ -973,7 +973,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_clearfix.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_clearfix.css */
 @layer components {
   .clearfix {
     &::before {
@@ -988,7 +988,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_cookieconsent.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_cookieconsent.css */
 @layer components {
   .cookieconsent {
     display: flex;
@@ -1019,7 +1019,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_disabled.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_disabled.css */
 @layer components {
   .disabled {
     cursor: default;
@@ -1033,7 +1033,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_flex-group.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_flex-group.css */
 @layer components {
   .flex-group {
     --flex-gap: calc(var(--base-line-height) * 1rem);
@@ -1071,7 +1071,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_flex-inline.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_flex-inline.css */
 @layer components {
   .flex-inline {
     --flex-inline-gap: .5rem;
@@ -1090,7 +1090,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_footer.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_footer.css */
 @layer components {
   .footer {
     padding-block: var(--gutters);
@@ -1102,7 +1102,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_grid-group.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_grid-group.css */
 @layer components {
   .grid-group {
     --grid-group-column-min: 200px;
@@ -1143,7 +1143,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_grid-stack.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_grid-stack.css */
 @layer components {
   .grid-stack {
     display: grid;
@@ -1154,7 +1154,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_header.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_header.css */
 @layer components {
   .header {
     --header-gap: var(--spacing-s);
@@ -1196,7 +1196,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_hidden.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_hidden.css */
 @layer components {
   .hidden {
     display: none;
@@ -1213,7 +1213,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_icon-inline.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_icon-inline.css */
 @layer components {
   .icon-inline {
     .icon-link {
@@ -1238,7 +1238,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_language-selector.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_language-selector.css */
 @layer components {
   .language-selector {
     display: flex;
@@ -1249,7 +1249,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_list-straight-left.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_list-straight-left.css */
 @layer components {
   .ul-straight-left {
     display: table;
@@ -1295,7 +1295,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_messages.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_messages.css */
 @layer components {
   .message {
     padding: .5rem;
@@ -1333,7 +1333,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_meta.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_meta.css */
 @layer components {
   .meta {
     font-family: var(--ff-headings);
@@ -1342,7 +1342,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_overlay.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_overlay.css */
 @layer components {
   .overlay {
     --color-overlay: var(--color-black-20);
@@ -1351,7 +1351,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_pager.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_pager.css */
 @layer components {
   .pagination,
   .pager {
@@ -1394,7 +1394,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_responsive-video.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_responsive-video.css */
 @layer components {
   .responsive-video {
     --aspect-ratio: 9 / 16;
@@ -1416,7 +1416,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_spacing.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_spacing.css */
 @layer components {
   .mt--xxl {
     margin-block-start: var(--spacing-xxl);
@@ -1492,7 +1492,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_tables.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_tables.css */
 @layer components {
   .zebra-table {
     --table-cell-padding: .5rem;
@@ -1544,7 +1544,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_tags.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_tags.css */
 @layer components {
   .tags {
     ul {
@@ -1553,7 +1553,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_visually-hidden.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_visually-hidden.css */
 @layer components {
   .visually-hidden {
     &:not(:focus, :active) {
@@ -1568,7 +1568,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/components/_wrap.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\components\_wrap.css */
 @layer components {
   .wrap-any {
     overflow-wrap: anywhere;
@@ -1578,7 +1578,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/_zen.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\_zen.css */
 @layer zen {
   body {
     background-color: var(--color-backdrop);
@@ -1740,7 +1740,7 @@
   }
 }
 
-/* ns-hugo-imp:/Users/ken/IdeaProjects/PBL3WEBDEVHUGO/test1/assets/css/_custom.css */
+/* ns-hugo-imp:Z:\PBL3TESTWEB\PBL3GroupA2026\assets\css\_custom.css */
 :root {
   --color-brand: var(--color-grey-100);
   --color-brand-alt: var(--color-grey-500);

@@ -84,7 +84,7 @@
 </div>
 </header>
 
-<nav class="main-menu mx--xs layout__navigation" aria-label="">
+<nav class="main-menu mx--xs layout__navigation" aria-label="Main menu">
 <ul class="flex-inline mx--0">
 <li><a href="/"><span>Home</span></a></li>
 <li><a href="/documentation/"><span>Documentation</span></a></li>
@@ -94,7 +94,7 @@
 <div class="mobile-nav" dir="ltr" hidden>
   <div class="mobile-nav__cover"></div>
   <button class="mobile-nav__toggle button" aria-expanded="false" aria-controls="sheet">
-    
+    Menu
     <svg class="mobile-nav__hamburger" viewBox="0 0 100 100" focusable="false" aria-hidden="true">
       <rect width="80" height="12" x="10" y="20" rx="5"></rect>
       <rect width="80" height="12" x="10" y="45" rx="5"></rect>
@@ -103,7 +103,7 @@
   </button>
   <div class="mobile-nav__sheet link-inverted link-nav" id="sheet" aria-hidden="true">
     <div class="mobile-nav__region"></div>
-    <nav class="mobile-nav__main-menu" aria-label="">
+    <nav class="mobile-nav__main-menu" aria-label="Main menu">
     <ul class="mobile-nav__navbar">
     <li><a href="/"><span>Home</span></a></li>
     <li><a href="/documentation/"><span>Documentation</span></a></li>
@@ -122,21 +122,21 @@
 </div>
 </header>
 
-<p class="error message js-hidden"></p>
-<p class="success message hidden" data-contact-submitted></p>
-<p class="error message hidden" data-contact-error></p>
+<p class="error message js-hidden">You must have Javascript enabled to use this function.</p>
+<p class="success message hidden" data-contact-submitted>Your message was sent.</p>
+<p class="error message hidden" data-contact-error>There was an error sending the message.</p>
 
 <form class="contact-form hidden" data-protect="/php/contact.php" action="#" method="post" accept-charset="UTF-8">
-  <label for="edit-name"></label>
-  <input type="text" id="edit-name" name="name" placeholder="" required autofocus>
-  <label for="edit-mail"></label>
-  <input type="email" id="edit-mail" name="email" placeholder="" required>
-  <input type="text" id="edit-url" class="hidden" name="url" placeholder="">
-  <label for="edit-subject"></label>
-  <input type="text" id="edit-subject" name="subject" placeholder="" required>
-  <label for="edit-message"></label>
-  <textarea id="edit-message" name="message" rows="5" placeholder="" required></textarea>
-  <button type="submit" name="submit" disabled></button>
+  <label for="edit-name">Name</label>
+  <input type="text" id="edit-name" name="name" placeholder="Your name" required autofocus>
+  <label for="edit-mail">E-mail address</label>
+  <input type="email" id="edit-mail" name="email" placeholder="Your e-mail address" required>
+  <input type="text" id="edit-url" class="hidden" name="url" placeholder="Skip if you are a human">
+  <label for="edit-subject">Subject</label>
+  <input type="text" id="edit-subject" name="subject" placeholder="A short subject" required>
+  <label for="edit-message">Message</label>
+  <textarea id="edit-message" name="message" rows="5" placeholder="The messages go here…" required></textarea>
+  <button type="submit" name="submit" disabled>Send message</button>
 </form>
 
 
