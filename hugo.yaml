@@ -24,7 +24,7 @@ params:
   dateformat: "20 April, 2026"
   #favicon: "apple-touch-icon.png"
   feedlinks: true
-  footer: "Made by Ken Sunamoto - 2600250451-0"
+  footer: "Website and [Repository](https://github.com/kendricksokeman/PBL3GroupA2026) made by Ken S, 2600250451-0"
   #icon: "apple-touch-icon.png"
   #image: "apple-touch-icon.png"
   imageMaxWidth: 400
@@ -36,8 +36,8 @@ params:
   themeColor: #121212
   author:
     name: "Ken Sunamoto"
-    url: "https://example.org/somepage"
-    avatar: "path/to/some-image.jpg"
+    #url: "https://example.org/somepage"
+    #avatar: "path/to/some-image.jpg"
 
 menus:
   main:
