@@ -31,7 +31,7 @@
             "date_modified": "0001-01-01T00:00:00Z",
             "id": "http://localhost:1313/documentation/requirements-specification-document/",
             "url": "http://localhost:1313/documentation/requirements-specification-document/",
-            "content_html": "\u003cp\u003eLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\u003c/p\u003e\n"
+            "content_html": "\u003cp\u003eVersion Control:\u003c/p\u003e\n\u003cp\u003eVersion 1.0: \u003ca href=\"./PBL3SoftwareRequirementsSpecificationv1.0.pdf\"\u003ePBL3SoftwareRequirementsSpecificationv1.0.pdf\u003c/a\u003e\u003c/p\u003e\n"
         },
         {
             "title": "System Design Diagrams",
