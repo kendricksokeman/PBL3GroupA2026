@@ -1,0 +1,16 @@
+
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Requirements Specification Document on PBL3 Group A",
+    "description": "Recent content in Requirements Specification Document on PBL3 Group A",
+    "home_page_url": "http://localhost:1313/",
+    "feed_url": "http://localhost:1313/documentation/requirements-specification-document/index.json",
+    "language": "en",
+    "authors": [
+        {
+            "name": "Ken Sunamoto"
+        }
+    ],
+    "items": [
+        ]
+}

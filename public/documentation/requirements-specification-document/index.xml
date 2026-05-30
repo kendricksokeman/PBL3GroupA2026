@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Requirements Specification Document on PBL3 Group A</title>
+    <link>http://localhost:1313/documentation/requirements-specification-document/</link>
+    <description>Recent content in Requirements Specification Document on PBL3 Group A</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+      <atom:link href="http://localhost:1313/documentation/requirements-specification-document/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
